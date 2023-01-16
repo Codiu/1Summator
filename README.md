@@ -1,4 +1,4 @@
-# cepasa
+# Summator
 Okay this is project called "A + B Summator"
 Simple stuff
 
