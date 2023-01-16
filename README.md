@@ -8,4 +8,5 @@ The question is - how to do input? manually, or implement I/O?
 So i guess will do both
 
 mod: adding constructor overload
+
 mod: learning Scanner method
